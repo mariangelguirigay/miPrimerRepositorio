@@ -2,4 +2,4 @@ menu
 articulo
 fotos
 pie de pagina
-valoracion
+comentarios
